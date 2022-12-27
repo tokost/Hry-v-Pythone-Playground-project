@@ -90,7 +90,7 @@ if __name__ == "__main__":   # je dobrym zvykom na zaciatok dat tuto konstrukciu
                             # tato funkcia iba caka aby sa napr. 60x t.j. za 1sec. zmenil obr.
                             
 # skusam git lokalne
-  
+# a pokracujem v skusani
   
   
     
